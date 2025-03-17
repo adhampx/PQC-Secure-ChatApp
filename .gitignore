@@ -1,2 +1,3 @@
-python_env\
-1_Open Quantum Safe\
+python_env/
+__pycache__/
+1_Open Quantum Safe/
